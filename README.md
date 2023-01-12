@@ -3,6 +3,10 @@ A Microverse exercise to create a setup and mobile first.
 <a name="readme-top"></a>
 
 <div align="center">
+
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  
+  <br/>
   <h3><b>Microverse README Template</b></h3>
 </div>
 
@@ -111,7 +115,7 @@ To run the linters before committing any changes to your code, execute the follo
 
 ## 👥 Authors <a name="authors"></a>
 
-> 👤 **AstroboyReloaded**
+> 👤 **GardimyReloaded**
 - GitHub: [@Gardimy](https://github.com/Gardimy)
 - Twitter: [@gardyelontiga45](https://twitter.com/gardyelontiga45)
 - LinkedIn: [Gardimy charles](https://www.linkedin.com/in/gardimy-charles)
@@ -140,6 +144,7 @@ Feel free to check the [issues page](../../issues/).
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 > I would like to thank [Microverse](https://www.microverse.org/) for teaching me these tools.
+And I also want to thank to Brother Abdulazeez for his advice.
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
